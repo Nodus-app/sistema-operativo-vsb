@@ -1,0 +1,19 @@
+{
+  "name": "VSB Distribuciones",
+  "short_name": "VSB",
+  "description": "Sistema de gestion operativa VSB Distribuciones",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#0a0e17",
+  "background_color": "#0a0e17",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
